@@ -58,6 +58,12 @@
     {
         width: 500px !important;
     }
+    .cart-list-dividor
+    {
+        border-bottom: 1px solid #cccccc;
+        margin-bottom: 20px;
+        padding-bottom:20px; 
+    }
     </style
 
 </html>
